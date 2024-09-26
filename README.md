@@ -1,6 +1,6 @@
 # PMC-Health-RAG
 
-## Project Summary: Multimodal Summarization System for Women's Reproductive Health Research Papers
+## Project Summary: Multimodal Summarization System for Health Research Papers
 
 **Objective**:
 
