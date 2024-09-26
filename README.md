@@ -10,11 +10,8 @@ Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research 
 
 **Scope**:
 
-The project will focus specifically on **women's reproductive health**, narrowing down broad medical topics to areas such as:
+The project will focus specifically on **TBD**, narrowing down broad medical topics to areas such as:
 
-- Menstrual health (e.g., PCOS, Endometriosis)
-- Fertility and IVF treatments
-- Pregnancy complications and prenatal care
-- Reproductive cancers (ovarian, cervical)
+**TBD**
 
-First PoC will focus on: TBD
+First PoC will focus on: **TBD**
