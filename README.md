@@ -4,7 +4,7 @@
 
 **Objective**:
 
-Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research papers focused on **women's reproductive health**, utilizing both textual and visual information from papers (e.g., figures, charts).
+Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research papers focused on **women's health**, utilizing both textual and visual information from papers (e.g., figures, charts).
 
 ---
 
@@ -17,4 +17,4 @@ The project will focus specifically on **women's reproductive health**, narrowin
 - Pregnancy complications and prenatal care
 - Reproductive cancers (ovarian, cervical)
 
-First PoC will focus on: Menstrual health (e.g., Endometriosis)
+First PoC will focus on: TBD
