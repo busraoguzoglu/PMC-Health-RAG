@@ -4,7 +4,7 @@
 
 **Objective**:
 
-Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research papers focused on **women's health**, utilizing both textual and visual information from papers (e.g., figures, charts).
+Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research papers focused on **TBD**, utilizing both textual and visual information from papers (e.g., figures, charts).
 
 ---
 
