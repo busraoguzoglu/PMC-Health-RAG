@@ -15,3 +15,9 @@ The project will focus specifically on **TBD**, narrowing down broad medical top
 **TBD**
 
 First PoC will focus on: **TBD**
+
+**Use of Models**
+
+Only open source models will be used for RAG and Multimodal functionality:
+
+https://docs.llamaindex.ai/en/stable/examples/low_level/oss_ingestion_retrieval/
