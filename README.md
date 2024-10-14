@@ -12,6 +12,9 @@ Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research 
 
 The project will focus specifically on **TBD**, narrowing down broad medical topics to areas such as:
 
+- Gastrointestinal health
+- Healthy eating habits
+
 **TBD**
 
 First PoC will focus on: **TBD**
