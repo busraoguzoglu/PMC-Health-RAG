@@ -24,3 +24,9 @@ First PoC will focus on: **TBD**
 Only open source models will be used for RAG and Multimodal functionality:
 
 https://docs.llamaindex.ai/en/stable/examples/low_level/oss_ingestion_retrieval/
+
+---
+
+**Data**
+
+Papers about dietary habits will be gathered from: https://www.ncbi.nlm.nih.gov/pmc (PMC Open Access Subset)
