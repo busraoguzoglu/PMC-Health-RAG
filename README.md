@@ -26,6 +26,7 @@ Second Phase:
 
 - Recipe recommendation
 - Adding multimodal functionality
+- Potentially using agentic architecture
 
 **Use of Models**
 
