@@ -34,6 +34,10 @@ Only open source models will be used for RAG and Multimodal functionality:
 
 https://docs.llamaindex.ai/en/stable/examples/low_level/oss_ingestion_retrieval/
 
+CLIP can be used for Multimodal functionality.
+
+Pgvector is used as VectorDB (can be changed to Qdrant later, or both can be tested)
+
 ---
 
 **Data**
