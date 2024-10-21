@@ -28,7 +28,9 @@ Second Phase:
 - Adding multimodal functionality
 - Potentially using agentic architecture
 
-**Use of Models**
+## Tech Stack
+
+### LLM/Multimodal:
 
 Only open source models will be used for RAG and Multimodal functionality:
 
@@ -36,11 +38,13 @@ https://docs.llamaindex.ai/en/stable/examples/low_level/oss_ingestion_retrieval/
 
 CLIP can be used for Multimodal functionality.
 
+### VectorDB:
+
 Pgvector is used as VectorDB (can be changed to Qdrant later, or both can be tested)
 
 ---
 
-**Data**
+### Data
 
 Papers about dietary habits will be gathered from: https://www.ncbi.nlm.nih.gov/pmc (PMC Open Access Subset)
 
@@ -52,3 +56,4 @@ Papers about dietary habits will be gathered from: https://www.ncbi.nlm.nih.gov/
 **Preprocessing**
 
 - preprocessing.ipynb: PDF document parsing.
+- Demo RAG code with Pgvector/Llama 2 is added and tested.
