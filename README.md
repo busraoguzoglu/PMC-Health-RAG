@@ -8,7 +8,7 @@ Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research 
 
 ---
 
-### Scope:
+### Scope and Project Plan:
 
 The project will focus specifically on **TBD**, narrowing down broad medical topics to areas such as:
 
