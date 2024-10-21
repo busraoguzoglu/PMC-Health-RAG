@@ -8,7 +8,7 @@ Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research 
 
 ---
 
-**Scope**:
+## Scope:
 
 The project will focus specifically on **TBD**, narrowing down broad medical topics to areas such as:
 
@@ -50,10 +50,7 @@ Papers about dietary habits will be gathered from: https://www.ncbi.nlm.nih.gov/
 
 ---
 
-
-## Progress - Code
-
-**Preprocessing**
+### Progress - Code
 
 - preprocessing.ipynb: PDF document parsing.
 - Demo RAG code with Pgvector/Llama 2 is added and tested.
