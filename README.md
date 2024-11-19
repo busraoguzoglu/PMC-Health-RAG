@@ -36,7 +36,9 @@ Only open source models will be used for RAG and Multimodal functionality:
 
 https://docs.llamaindex.ai/en/stable/examples/low_level/oss_ingestion_retrieval/
 
-CLIP can be used for Multimodal functionality.
+CLIP was considered Multimodal functionality.
+
+LLaVa will be used to summarize images, the summarization will be embedded as text. (This design choice is based on the number, quality and the nature of the images.)
 
 ### VectorDB:
 
