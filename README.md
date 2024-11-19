@@ -10,7 +10,7 @@ Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research 
 
 ### Scope and Project Plan:
 
-The project will focus specifically on **TBD**, narrowing down broad medical topics to areas such as:
+The project will focus specifically on PMC public access papers, narrowing down broad medical topics to areas such as:
 
 - Gastrointestinal health
 - Healthy eating habits
