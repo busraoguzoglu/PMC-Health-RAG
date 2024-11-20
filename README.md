@@ -55,4 +55,5 @@ Papers about dietary habits will be gathered from: https://www.ncbi.nlm.nih.gov/
 ### Progress - Code
 
 - preprocessing.ipynb: PDF document parsing.
-- Demo RAG code with Pgvector/Llama 2 is added and tested.
+- llama_basic_rag.ipynb: RAG with only Llama2, only texts are being used.
+- llama_llava_rag.ipynb: RAG with Llama2 for and Llava for the image summarization.
