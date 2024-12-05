@@ -2,6 +2,10 @@
 
 ## Project Summary: Multimodal Summarization System for Health Research Papers
 
+**Medium Article**
+
+https://medium.com/@busra.oguzoglu/fully-open-source-rag-with-llama-cpp-and-llava-images-included-ce9b66ab21df
+
 **Objective**:
 
 Develop a **Retrieval-Augmented Generation (RAG)** system to summarize research papers focused on **TBD**, utilizing both textual and visual information from papers (e.g., figures, charts).
