@@ -19,17 +19,14 @@ The project will focus specifically on PMC public access papers, narrowing down 
 - Gastrointestinal health
 - Healthy eating habits
 
-**TBD**
+First PoC will focus on:
 
-First PoC will focus on: **TBD**
-
-- RAG
+- RAG (From PDF files, with text and images)
 - Q&A From the system
 
 Second Phase:
 
 - Recipe recommendation
-- Adding multimodal functionality
 - Potentially using agentic architecture
 
 ## Tech Stack
